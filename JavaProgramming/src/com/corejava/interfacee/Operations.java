@@ -1,4 +1,4 @@
-package com.practice.interfacee;
+package com.corejava.interfacee;
 
 public interface Operations {
 void countOccurance();

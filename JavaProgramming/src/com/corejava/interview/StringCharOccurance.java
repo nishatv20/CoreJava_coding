@@ -1,4 +1,4 @@
-package com.practice.interview;
+package com.corejava.interview;
 
 public class StringCharOccurance {
 	void getOccurance(String str, char ch) {

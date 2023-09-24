@@ -1,4 +1,4 @@
-package com.string.practice;
+package com.corejava.string;
 
 import java.util.Scanner;
 

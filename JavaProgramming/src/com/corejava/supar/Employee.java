@@ -1,4 +1,4 @@
-package com.practice.supar;
+package com.corejava.supar;
 
 public class Employee extends Department {
 	int e_no;

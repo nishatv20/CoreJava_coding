@@ -1,4 +1,4 @@
-package com.practice.multithreading;
+package com.corejava.multithreading;
 
 public class Parent {
 	public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package com.practice.abstraction;
+package com.corejava.abstraction;
 
 public abstract class Shape {
 	protected double ar;

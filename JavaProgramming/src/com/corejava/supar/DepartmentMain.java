@@ -1,4 +1,4 @@
-package com.practice.supar;
+package com.corejava.supar;
 
 public class DepartmentMain {
 	public static void main(String[] args) {

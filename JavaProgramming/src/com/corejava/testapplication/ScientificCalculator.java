@@ -1,4 +1,4 @@
-package com.prog.testapplication;
+package com.corejava.testapplication;
 
 import com.prog.operations.Calculator;
 

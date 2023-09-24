@@ -1,4 +1,4 @@
-package com.practice.interview;
+package com.corejava.interview;
 
 public class DeleteArrayElem {
 	void deleteArrayEl(int[] a, int pos) {

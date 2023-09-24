@@ -1,4 +1,4 @@
-package com.hasIs.practice;
+package com.corejava.hasIs;
 
 import java.util.Scanner;
 

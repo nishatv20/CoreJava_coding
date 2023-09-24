@@ -1,3 +1,4 @@
+package com.corejava.stat;
 import java.util.Scanner;
 class Employee {
 int eno;

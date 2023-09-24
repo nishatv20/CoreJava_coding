@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+package com.corejava.oops;
 class Test {
 
 	public void search(int[] arr, int val) {

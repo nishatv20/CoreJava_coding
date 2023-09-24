@@ -1,4 +1,4 @@
-package com.practice.interview;
+package com.corejava.interview;
 
 public class ReverseArray {
 	void revArr(int[] arr) {

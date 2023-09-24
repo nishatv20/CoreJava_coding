@@ -1,4 +1,4 @@
-package com.practice.collections;
+package com.corejava.collections;
 import java.util.HashSet;
 public class HashSetEmployee {
 private int eno;

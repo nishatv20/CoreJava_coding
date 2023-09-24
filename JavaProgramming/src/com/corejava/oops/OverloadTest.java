@@ -1,4 +1,4 @@
-package com.prog.oops;
+package com.corejava.oops;
 
 import java.util.Scanner;
 

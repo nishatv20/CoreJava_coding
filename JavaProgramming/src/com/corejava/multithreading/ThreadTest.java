@@ -1,4 +1,4 @@
-package com.practice.multithreading;
+package com.corejava.multithreading;
 
 public class ThreadTest extends Thread {
 	public void run() {

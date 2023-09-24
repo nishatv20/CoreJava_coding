@@ -1,4 +1,4 @@
-package com.practice.abstraction;
+package com.corejava.abstraction;
 
 public class ContractEmp extends Employee {
 	int tot_sal;

@@ -1,4 +1,4 @@
-package com.prog.inheritence;
+package com.corejava.inheritence;
 
 public class Department extends Company {
 	int dno;

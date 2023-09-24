@@ -1,4 +1,4 @@
-package com.practice.multithreading;
+package com.corejava.multithreading;
 
 public class SyncBlockMain {
 	public static void main(String[] args) {

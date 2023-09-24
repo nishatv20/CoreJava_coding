@@ -1,4 +1,4 @@
-package com.prog.inheritence;
+package com.corejava.inheritence;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.exception.practice;
+package com.corejava.exception;
 
 public class Ram {
 int capacity;

@@ -1,4 +1,4 @@
-package com.practice.collections;
+package com.corejava.collections;
 
 public class HashSetStudent {
 	private int rollno;

@@ -1,4 +1,4 @@
-package com.practice.multithreading;
+package com.corejava.multithreading;
 
 import java.io.BufferedReader;
 import java.io.IOException;

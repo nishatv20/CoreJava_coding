@@ -1,4 +1,4 @@
-package com.practice.interfacee;
+package com.corejava.interfacee;
 
 public class InterfaceDemo {
 	public static void main(String[] args) {

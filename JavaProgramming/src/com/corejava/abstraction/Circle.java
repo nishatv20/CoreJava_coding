@@ -1,4 +1,4 @@
-package com.practice.abstraction;
+package com.corejava.abstraction;
 
 public class Circle extends Shape {
 	private double r;

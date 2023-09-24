@@ -1,4 +1,4 @@
-package com.practice.abstraction;
+package com.corejava.abstraction;
 
 public class PermanentEmp extends Employee {
 	int tot;

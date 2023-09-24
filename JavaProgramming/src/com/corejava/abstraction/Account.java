@@ -1,4 +1,4 @@
-package com.practice.abstraction;
+package com.corejava.abstraction;
 
 public abstract class Account {
 	static int accno;

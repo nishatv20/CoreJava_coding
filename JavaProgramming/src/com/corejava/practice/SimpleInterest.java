@@ -1,3 +1,4 @@
+package com.corejava.practice;
 class SimpleInterest {
 int pri,rate,time;
 float si;

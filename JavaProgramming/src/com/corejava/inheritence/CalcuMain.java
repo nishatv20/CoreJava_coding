@@ -1,4 +1,4 @@
-package com.prog.inheritence;
+package com.corejava.inheritence;
 
 public class CalcuMain {
 	public static void main(String[] args) {

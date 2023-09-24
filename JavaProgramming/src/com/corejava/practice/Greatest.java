@@ -1,4 +1,4 @@
-package com.prog.practice;
+package com.corejava.practice;
 
 class Greatest {
 int num1, num2, num3;

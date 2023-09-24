@@ -1,6 +1,5 @@
-package com.prog.maincalculator;
+package com.corejava.maincalculator;
 
-import com.prog.operations.*;
 import com.prog.testapplication.*;
 import java.util.Scanner;
 

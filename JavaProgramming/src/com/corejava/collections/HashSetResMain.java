@@ -1,10 +1,10 @@
-package com.practice.collections;
+package com.corejava.collections;
 import java.util.HashSet;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 public class HashSetResMain {
-public static void main(String[] args) {
+public static void main(String[] args) throws NumberFormatException, IOException {
 	HashSet<HashSetStudent> hss = new HashSet<HashSetStudent>();
 	HashSet<HashSetResult> hsr = new HashSet<HashSetResult>();
 	HashSetResMain hsm = new HashSetResMain();
@@ -21,10 +21,10 @@ public static void main(String[] args) {
 		switch(choice) {
 		case 1:
 			System.out.println("***---GETTINF INFORMATION---***");
-			S
+			
 		}
 	}
-	while(choice!=4)
+	while(choice!=4);
 }
 void getData(HashSet<HashSetStudent>hss, HashSet<HashSetResult> hsr)throws IOException,NumberFormatException {
 	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

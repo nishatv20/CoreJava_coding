@@ -1,4 +1,4 @@
-package com.practice.supar;
+package com.corejava.supar;
 
 public class TestClass {
 	    private static final String DEFAULT_VALUE = "REQUIRED"; 

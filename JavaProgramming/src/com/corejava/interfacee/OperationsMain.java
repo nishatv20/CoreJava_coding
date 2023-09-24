@@ -1,4 +1,4 @@
-package com.practice.interfacee;
+package com.corejava.interfacee;
 
 public class OperationsMain {
 public static void main(String[] args) {

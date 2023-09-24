@@ -1,4 +1,4 @@
-package com.practice.interview;
+package com.corejava.interview;
 
 public class FrequencyOfElements {
 	public static void main(String[] args) {

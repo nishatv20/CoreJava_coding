@@ -1,4 +1,4 @@
-package com.practice.abstraction;
+package com.corejava.abstraction;
 
 public class MainClass {
 	public static void main(String[] args) {

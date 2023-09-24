@@ -1,4 +1,4 @@
-package com.practice.supar;
+package com.corejava.supar;
 
 import java.util.Scanner;
 

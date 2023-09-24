@@ -1,3 +1,4 @@
+package com.corejava.practice;
 class Test {
 int a,b,c;
 void add() {

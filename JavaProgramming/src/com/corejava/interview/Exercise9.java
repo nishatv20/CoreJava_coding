@@ -1,4 +1,4 @@
-package com.practice.interview;
+package com.corejava.interview;
 
 import java.util.Arrays; 
 public class Exercise9 {

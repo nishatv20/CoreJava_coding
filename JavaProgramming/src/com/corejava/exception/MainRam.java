@@ -1,4 +1,4 @@
-package com.exception.practice;
+package com.corejava.exception;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

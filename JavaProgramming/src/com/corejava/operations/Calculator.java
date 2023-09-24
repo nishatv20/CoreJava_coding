@@ -1,4 +1,4 @@
-package com.prog.operations;
+package com.corejava.operations;
 
 public class Calculator {
 

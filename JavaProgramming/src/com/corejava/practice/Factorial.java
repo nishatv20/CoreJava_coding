@@ -1,4 +1,4 @@
-package com.prog.practice;
+package com.corejava.practice;
 
 class Factorial {
 int fact,num;

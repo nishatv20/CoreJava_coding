@@ -1,3 +1,4 @@
+package com.corejava.scanner;
 import java.util.Scanner;
 class Student {
 int roll;

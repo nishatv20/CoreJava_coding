@@ -1,4 +1,4 @@
-package com.hasIs.practice;
+package com.corejava.hasIs;
 
 public class Author {
 	String name;
